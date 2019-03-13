@@ -8,3 +8,7 @@ This is my story
 ================
 
 Human being eat all day it's Awesome**!**
+
+.. image:: imag.png
+
+SuperGuay!!
