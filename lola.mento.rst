@@ -9,3 +9,5 @@ Aquesta es la historia
 ======================
 
 Estaba en un festa molt dormida, jo vola a rribar a casa, una vegada que vaig arribar (que semblaba una sopa) vaig pujar les escales de la llitera y hem vaig dormir, a mitja nit no se com peró
+
+.. image: litera.jpg
