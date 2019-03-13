@@ -19,6 +19,6 @@ Aquesta és la historia
 
 
 
-.. image:: puntos suspensivos.png
+.. image:: image.png
 
 :-|
