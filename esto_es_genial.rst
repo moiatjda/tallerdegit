@@ -9,4 +9,4 @@ Aquesta es la historia
 
 Me aburro y he acabado pronto y queria probarlo XDDDD
 
-.. gif:: video.gif
+.. gifs:: video.gif
