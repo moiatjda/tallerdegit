@@ -14,6 +14,9 @@ Aquesta és la historia
 L'altre dia el *Miquel* em va demanar que fes un taller de git i com que no sé
 dir que **no**, doncs això
 
+.. image:: imatge.png
+
+Mira la imatge tan xula de l'esdeveniment
 
 
 
