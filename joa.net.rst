@@ -5,3 +5,5 @@ frkada: examen de apache amb tot l'alumnat al meu pc "me setia sol" - docker edi
 
 una tarda qualsevol... al jda...
 ================================
+
+.. image:: docker.jpg
